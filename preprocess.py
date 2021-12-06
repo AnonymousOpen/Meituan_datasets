@@ -251,13 +251,3 @@ pickle.dump(tra_seqs, open('all_train_seq.txt', 'wb'))
 '''
 print('Done.')
 
-"""
-clicks: 2825732
-item_ctr
-37682
-l_num, t_num: 14 97
-train_test sessions:
-1049421
-95885
-avg length:  6.383367254370174
-"""
