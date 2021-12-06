@@ -1,1 +1,1 @@
-# Meituan_datasets for STAGE
+# Meituan datasets for STAGE
